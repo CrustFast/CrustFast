@@ -10,13 +10,13 @@
 
 <div>
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a personal projects involving AI and cloud infrastructure.**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Kubernetes, and the principles of DevOps.**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **anything related to JavaScript and Cloud.**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **My journey into tech started with 3D modeling, so I can build you a virtual house before building the software for it.**
 
  </div>
  
@@ -55,7 +55,11 @@
 <br/><br/>
 
 <hr/>
-
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrustFast/CrustFast/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrustFast/CrustFast/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CrustFast/CrustFast/output/pacman-contribution-graph.svg">
+    </picture>
 <br/>
 
 <div align="center">
