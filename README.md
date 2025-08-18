@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CrustFast.CrustFast&"  />
 </div>
 
@@ -93,7 +93,7 @@
 </div>
 
 <hr/>
-https://github-profile-trophy.vercel.app/?CrustFast=ryo-ma&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/CrustFast=ryo-ma)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub))
 <hr/>
 
 <picture>
