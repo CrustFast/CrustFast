@@ -43,14 +43,3 @@
 
 <hr/>
 
-<script type="module">
-import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
-const pr = new PacmanRenderer({
-    platform: 'github',
-    username: 'CrustFast',
-    canvas: document.getElementById('canvas'),
-    outputFormat: 'canvas',
-    gameTheme: 'github'
-});
-pr.start();
-</script>
