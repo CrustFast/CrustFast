@@ -93,8 +93,6 @@
 </div>
 
 <hr/>
-[![trophy](https://github-profile-trophy.vercel.app/CrustFast=ryo-ma)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub))
-<hr/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrustFast/CrustFast/output/pacman-contribution-graph-dark.svg">
